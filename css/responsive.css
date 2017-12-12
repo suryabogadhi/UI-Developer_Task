@@ -1,0 +1,80 @@
+/* Media quaries */
+
+@media only screen and (max-width:968px) {
+    .navbar-right {
+        float: left !important;
+    }
+    .btndiv {
+        margin: 45px auto;
+        width: 100%;
+    }
+    .coursesubmit {
+        padding: 6px 81px;
+    }
+    .bannerimg img {
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width:767px) {
+    .navbar-right {
+        width: 100%;
+    }
+}
+@media only screen and (max-width:760px) {
+    .footertxt1 {
+        text-align: center;
+    }
+    .footertxt2 {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:640px) {
+    .coursesubmit {
+        width: 100%;
+    }
+    .about_abt3 {
+        color: #000;
+    }
+    .about_abt1 { color: #000;}
+    .about_abt2 { color: #000;}
+    .banner_space {
+        margin: 30px auto;
+    }
+    .mid_principal {
+        margin-top: 36px;
+        margin-bottom: 58px;
+    }
+    .mid_events {
+        margin: 28px auto;
+    }
+}    
+
+@media only screen and (max-width:568px) {
+.carouseller .carouseller__left, .carouseller .carouseller__right {bottom: 47px;}
+.ifmap {
+    width: 90%;
+}
+}
+@media only screen and (max-width:446px) {
+    .top_details li {
+        float: left;
+    }
+    .firstlink {
+        padding-right: 7px;
+    }
+}
+@media only screen and (max-width:468px) {
+    .banner_space {
+        margin: 40px auto;
+    }
+    .ifmap {
+        width: 100%;
+    }
+}
+@media only screen and (max-width:404px) {
+    .number_email { display: none;}
+}
+
+
